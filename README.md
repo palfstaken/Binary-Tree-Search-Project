@@ -1,7 +1,7 @@
 # Binary-Tree-Project
 
 - #### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
-- ##### Yukarıdaki dizinin Binary-Search-Tree aşamalarını yazınız.
+- ##### Write the Binary-Search-Tree stages of the above sequence..
 
 - **root=7**
 
@@ -9,7 +9,7 @@
 |- |- |- |- |- |- |- |- |- |- |- |
 |  |  |  |  |  |  |7 |  |  |  |  |
 
-- **5, 7'den küçük olduğu için soluna ekleriz** 
+- **5 is added to its left because it is less than 7** 
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -17,7 +17,7 @@
 |  |  |  |  |  |/ |  |  |  |  |  |
 |  |  |  |  |5 |  |  |  |  |  |  |
 
-- **1, 5'den küçük olduğu için soluna ekleriz**
+- **1 is added to its left because it is less than 5**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -27,7 +27,7 @@
 |  |  |  |/ |  |  |  |  |  |  |  |
 |  |  |1 |  |  |  |  |  |  |  |  |
 
-- **8, 7'den büyük olduğu için sağına ekleriz**
+- **8 is added to its right because it is greater than 7**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -37,7 +37,7 @@
 |  |  |  |/ |  |  |  |  |  |  |  |
 |  |  |1 |  |  |  |  |  |  |  |  |
 
-- **3, 1'den büyük olduğu için sağına eklenir**
+- **3 is added to its right because it is greater than 1**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -49,7 +49,7 @@
 |  |  |  |\ |  |  |  |  |  |  |  |
 |  |  |  |  |3 |  |  |  |  |  |  |
 
-- **6, 5'ten büyük olduğu için sağına eklenir**
+- **6 is added to its right because it is greater than 5**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -61,7 +61,7 @@
 |  |  |  |\ |  |  |  |  |  |  |  |
 |  |  |  |  |3 |  |  |  |  |  |  |
 
-- **0, 1'den küçük olduğu için soluna eklenir**
+- **0 is added to its left because it is less than 1**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -73,7 +73,7 @@
 |  |/ |  |\ |  |  |  |  |  |  |  |
 |0 |  |  |  |3 |  |  |  |  |  |  |
 
-- **9, 8'den büyük olduğu için sağına eklenir**
+- **9 is added to its right because it is greater than 8**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -85,7 +85,7 @@
 |  |/ |  |\ |  |  |  |  |  |  |  |
 |0 |  |  |  |3 |  |  |  |  |  |  |
 
-- **4, 3'ten büyük olduğu için sağına eklenir**
+- **4 is added to its right because it is greater than 3**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -99,7 +99,7 @@
 |  |  |  |  |  |\ |  |  |  |  |  |
 |  |  |  |  |  |  |4 |  |  |  |  |
 
-- **2, 3'ten küçük olduğu için soluna eklenir**
+- **2 is added to its left because it is less than 3**
 
 |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |
@@ -113,5 +113,5 @@
 |  |  |  |/ |  |\ |  |  |  |  |  |
 |  |  |2 |  |  |  |4 |  |  |  |  |
 
-- [-->Patika Profilim](https://app.patika.dev/palf)
+- [-->My Patika profile](https://app.patika.dev/palf)
 - [patika.dev](https://www.patika.dev/)
